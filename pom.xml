@@ -127,6 +127,7 @@
             </build>
         </profile>
     </profiles>
+    
     <distributionManagement>
         <repository>
             <id>yestech.release</id>
